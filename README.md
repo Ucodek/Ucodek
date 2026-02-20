@@ -56,4 +56,4 @@ I am a 4th-year Computer Engineering student at **Abdullah Gül University (AGÜ
 ---
 
 ### ⚡ GitHub Stats
-![Ucodek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ucodek&show_icons=true&theme=radical)
+![Ucodek's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ucodek&show_icons=true&theme=radical)

@@ -53,7 +53,4 @@ I am a 4th-year Computer Engineering student at **Abdullah Gül University (AGÜ
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umut-kaya-1b1183150/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umut.kaya.4238@gmail.com)
 
----
 
-### ⚡ GitHub Stats
-![Ucodek's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ucodek&show_icons=true&theme=radical)

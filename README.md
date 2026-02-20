@@ -37,8 +37,8 @@ I am a 4th-year Computer Engineering student at **Abdullah Gül University (AGÜ
 
 ### 📊 Featured Work
 
-- **[Portfolio-Optimization-DRL]:** End-to-end framework using DRL to manage financial assets.
-- **[YOLOv8-Fire-Detection]:** Academic research enhancing object detection with Self-Supervised Learning.
+- **Portfolio-Optimization-DRL:** End-to-end framework using DRL to manage financial assets.
+- **YOLOv8-Fire-Detection:** Academic research enhancing object detection with Self-Supervised Learning.
 
 ---
 

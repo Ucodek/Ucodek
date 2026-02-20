@@ -37,14 +37,12 @@ I am a 4th-year Computer Engineering student at **Abdullah Gül University (AGÜ
 
 ### 📊 Featured Work
 
-- **[Portfolio-Optimization-DRL](https://github.com/umutkaya/link-to-repo):** End-to-end framework using DRL to manage financial assets.
-- **[YOLOv8-Fire-Detection](https://github.com/umutkaya/link-to-repo):** Academic research enhancing object detection with Self-Supervised Learning.
+- **[Portfolio-Optimization-DRL]:** End-to-end framework using DRL to manage financial assets.
+- **[YOLOv8-Fire-Detection]:** Academic research enhancing object detection with Self-Supervised Learning.
 
 ---
 
 ### 🌱 Personal Interests
-- 🎌 **Languages:** Currently practicing **Japanese** (Basic).
-- 🎬 **Inspiration:** Big fan of **Studio Ghibli** films and the intersection of art and tech.
 - 🎮 **Gaming:** Exploring game mechanics in **Roblox** and historical strategy in **Bannerlord**.
 
 ---

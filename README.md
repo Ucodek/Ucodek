@@ -30,7 +30,6 @@ I am a 4th-year Computer Engineering student at **Abdullah Gül University (AGÜ
 
 **Tools & Infrastructure**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -40,7 +39,6 @@ I am a 4th-year Computer Engineering student at **Abdullah Gül University (AGÜ
 
 - **[Portfolio-Optimization-DRL](https://github.com/umutkaya/link-to-repo):** End-to-end framework using DRL to manage financial assets.
 - **[YOLOv8-Fire-Detection](https://github.com/umutkaya/link-to-repo):** Academic research enhancing object detection with Self-Supervised Learning.
-- **[Intelligent-Workflows](https://github.com/umutkaya/link-to-repo):** Custom n8n workflows and Telegram/WhatsApp bots for automated research.
 
 ---
 
@@ -58,4 +56,4 @@ I am a 4th-year Computer Engineering student at **Abdullah Gül University (AGÜ
 ---
 
 ### ⚡ GitHub Stats
-![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ucodek&show_icons=true&theme=radical)
+![Umut's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Ucodek]&show_icons=true&theme=radical)
